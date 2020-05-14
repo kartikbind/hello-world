@@ -1,4 +1,5 @@
-print('Hello, World!')
+print('Hello,', end=' ')
+print('World!')
 print(2+4)
 print(5*2)
 print()
